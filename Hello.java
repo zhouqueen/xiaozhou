@@ -3,6 +3,5 @@ public class Hello{
   	system.out.println("java");
  	system.out.println("zhou"); 
   	system.out.println("hello");
-    system.out.println("xiao")
   }
 }
